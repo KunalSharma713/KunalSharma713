@@ -8,6 +8,9 @@
 
 ## Key Project – Ouverture Logistic ERP System
 
+**Live Demo:**  
+[Ouverture Logistic ERP System](https://dev.d365gcacb1uxsm.amplifyapp.com/login)
+
 **Project Description:**
 
 - Built a logistics management platform to streamline multi-company shipment operations.
@@ -47,6 +50,7 @@
 - Database: PostgreSQL  
 - API Testing & Collaboration: Postman, JIRA  
 - Other Skills: REST APIs, serverless architecture, Stripe integration
+
 
 
 
