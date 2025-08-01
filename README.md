@@ -1,5 +1,53 @@
-# 💫 About Me:
-Hi, I’m Kunal Sharma, a passionate MERN stack developer with experience in building cloud-based applications. I specialize in creating software that solves real-world problems by combining my skills in frontend and backend development. My focus is on creating efficient and scalable systems, especially for businesses that need reliable cloud solutions.<br>Recently, I worked on the Ouverture Logistic ERP System, a cutting-edge logistics management platform designed to streamline multi-company shipment operations. The system leverages a serverless architecture, ensuring high scalability and performance through AWS services. In this project, I played a key role in both the frontend and backend development, using React.js for the user interface and Node.js for the server-side logic. The platform is backed by a robust PostgreSQL database and integrates various third-party services for payment processing via Stripe and background task management with AWS Lambda.<br>Some of the core features of the platform include multi-company support, role-based access, and seamless API integrations for advanced functionalities. We utilized AWS S3 for storage, AWS Cognito for user authentication, API Gateway for handling HTTP requests, and SQS for managing message queues in serverless environments.<br>I’ve also gained proficiency in various tools such as JIRA, Bitbucket Pipelines, and Postman, ensuring smooth collaboration and efficient API testing throughout the development cycle.<br>I'm passionate about delivering high-quality software solutions, and I always strive to enhance user experience while optimizing performance.
+## About Me – Kunal Sharma
+
+- MERN stack developer passionate about building scalable, cloud-based applications.
+- Specialize in solving real-world problems through full-stack development (React.js + Node.js).
+- Strong focus on performance, user experience, and reliability in cloud environments.
+
+---
+
+## Key Project – Ouverture Logistic ERP System
+
+**Project Description:**
+
+- Built a logistics management platform to streamline multi-company shipment operations.
+
+**Architecture & Technologies:**
+
+- Frontend: React.js  
+- Backend: Node.js  
+- Database: PostgreSQL  
+- Authentication: AWS Cognito  
+- Storage: AWS S3  
+- Serverless Components:
+  - AWS Lambda for background tasks  
+  - API Gateway for handling HTTP requests  
+  - SQS for message queue management  
+- Payment Integration: Stripe
+
+**Core Features:**
+
+- Multi-company support  
+- Role-based access control  
+- Seamless third-party API integrations  
+- High scalability using serverless architecture  
+
+**My Role:**
+
+- Contributed to both frontend and backend development  
+- Integrated AWS services for performance and scalability  
+- Ensured smooth development cycles using tools like Postman, JIRA, and Bitbucket Pipelines  
+
+---
+
+## Tools & Skills
+
+- Languages & Frameworks: JavaScript, React.js, Node.js, Express.js  
+- Cloud & DevOps: AWS (Lambda, S3, Cognito, API Gateway, SQS), Bitbucket Pipelines  
+- Database: PostgreSQL  
+- API Testing & Collaboration: Postman, JIRA  
+- Other Skills: REST APIs, serverless architecture, Stripe integration
+
 
 
 ## 🌐 Socials:
