@@ -6,43 +6,6 @@
 
 ---
 
-## Key Project – Ouverture Logistic ERP System
-
-**Live Demo:**  
-[Ouverture Logistic ERP System](https://dev.d365gcacb1uxsm.amplifyapp.com/login)
-
-**Project Description:**
-
-- Built a logistics management platform to streamline multi-company shipment operations.
-
-**Architecture & Technologies:**
-
-- Frontend: React.js  
-- Backend: Node.js  
-- Database: PostgreSQL  
-- Authentication: AWS Cognito  
-- Storage: AWS S3  
-- Serverless Components:
-  - AWS Lambda for background tasks  
-  - API Gateway for handling HTTP requests  
-  - SQS for message queue management  
-- Payment Integration: Stripe
-
-**Core Features:**
-
-- Multi-company support  
-- Role-based access control  
-- Seamless third-party API integrations  
-- High scalability using serverless architecture  
-
-**My Role:**
-
-- Contributed to both frontend and backend development  
-- Integrated AWS services for performance and scalability  
-- Ensured smooth development cycles using tools like Postman, JIRA, and Bitbucket Pipelines  
-
----
-
 ## Tools & Skills
 
 - Languages & Frameworks: JavaScript, React.js, Node.js, Express.js  
@@ -50,7 +13,6 @@
 - Database: PostgreSQL  
 - API Testing & Collaboration: Postman, JIRA  
 - Other Skills: REST APIs, serverless architecture, Stripe integration
-
 
 
 
